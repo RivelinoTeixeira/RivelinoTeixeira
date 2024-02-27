@@ -19,4 +19,4 @@
 
 </div><br/>
 Apaixonado por tecnologia , sempre buscando aprender novas tecnologias e
-desenvolvendo. 
+desenvolvendo 🖥️
