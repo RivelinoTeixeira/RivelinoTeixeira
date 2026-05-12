@@ -2,7 +2,7 @@
 
 [![LinkerdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rivelino-junior-378b78259)
 
- ![Rivelino'Teixeira GitHub stats](https://github-readme-stats.vercel.app/api?username=rivelinoteixeira&show_icons=true&theme=dracula)
+ ![Rivelino'Teixeira GitHub stats](https://github-readme-stats.vercel.app/api?username=RivelinoTeixeira&show_icons=true&theme=dracula)
 
  ## Tecnologias que eu utilizo💻
  
